@@ -1,2 +1,0 @@
-# GoGoup
-Elastic supply token
